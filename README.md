@@ -1,2 +1,5 @@
-# Deitel-Java-Ejercicio-3.17
-Como Programar en Java 10 Edicion Paul Deitel. Ejercicio 3.17 (Computarización de los registros médicos)
+# Deitel Java Ejercicio 3.17
+
+Como Programar en Java 10 Edicion Paul Deitel. 
+
+Ejercicio 3.17 (Computarización de los registros médicos) En este ejercicio usted diseñará una clase “inicial” llamada PerfilMedico para una persona. Los atributos de la clase deben incluir el primer nombre de la persona, su apellido, sexo, fecha de nacimiento (que debe consistir de atributos separados para el día, mes y año de nacimiento), altura (en centímetros) y peso (en kilogramos). Su clase debe tener un constructor que reciba estos datos. Para cada atributo, debe proveer los métodos establecer y obtener. La clase también debe incluir métodos que calculen y devuelvan la edad del usuario en años, la frecuencia cardiaca máxima y el rango de frecuencia cardiaca esperada (vea el ejercicio 3.16), además del índice de masa corporal (BMI; vea el ejercicio 2.33). Escriba una aplicación de Java que pida la información de la persona, cree una instancia de un objeto de la clase PerfilMedico para esa persona e imprima la información de ese objeto (incluyendo el primer nombre de la persona, apellido, sexo, fecha de nacimiento, altura y peso), y que después calcule e imprima la edad de esa persona en años, junto con el BMI, la frecuencia cardiaca máxima y el rango de frecuencia cardiaca esperada. También debe mostrar la tabla de valores del BMI del ejercicio 2.33
